@@ -10,6 +10,9 @@ Code similar to [this YouTube Video](https://www.youtube.com/watch?v=5xWDKJj1UGY
 2. Optional: Background image Element
 3. Attach Code
 
-```
+Use **Time.deltaTime** for constant movement.
 
+```
+radialIndicatorUI.enabled = true;
+radialIndicatorUI.fillAmount = indicatorTimer;
 ```
