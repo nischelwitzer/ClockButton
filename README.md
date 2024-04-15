@@ -2,7 +2,7 @@
 ClockButton like Eyetoy (Unity Code)
 Code similar to [this YouTube Video](https://www.youtube.com/watch?v=5xWDKJj1UGY) 
 
-<img src="./images/ClockButton.png" width="600">
+<img src="./images/ClockButton_Unity.png" width="600">
 
 ## Usage
 
