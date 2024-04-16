@@ -1,6 +1,9 @@
-# ClockButton
+# Progressbar (linear, circular), ClockButton, Spirit Level Display, ...
+
 ClockButton like Eyetoy (Unity Code)
 Code similar to [this YouTube Video](https://www.youtube.com/watch?v=5xWDKJj1UGY) 
+
+Wichtig: Image Type > **Filled**
 
 Can be used for
 * SpiritLevel Display (Wasserwaage)
