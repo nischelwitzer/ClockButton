@@ -26,3 +26,9 @@ Use **Time.deltaTime** for constant movement.
 radialIndicatorUI.enabled = true;
 radialIndicatorUI.fillAmount = indicatorTimer;
 ```
+
+# Face Balken Feedback (Wasserwaage)
+
+<img src="./images/face_BalkenFeedback.png" width="600">
+
+
