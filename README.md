@@ -33,7 +33,7 @@ Used for the IMA Lecture DMT3[^1] at FH JOANNEUM, Graz, Austria.
 
 <img src="./images/face_BalkenFeedback.png" width="600">
 
-* use this code: FeedbackBalken.cs
+* use this [C# Code FeedbackBalken.cs](../scripts/FeedbackBalken.cs)
 * needs in StaticStore (NCD Positions)
   * DMT.StaticStore.leftRightFace
   * DMT.StaticStore.upDownFace
